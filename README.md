@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gregoppong165
+- 👋 Hi, I’m Gregory Oppong
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Java
 - 
